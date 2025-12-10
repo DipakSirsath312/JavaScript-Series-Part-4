@@ -12,3 +12,7 @@ This Repo all Content and Basic to Advance Concept JavaScript Series Part 4
 ---
 
 # 📌JavaScript Topic :-
+
+1. for Loops
+2. Dry Run
+3. Print Odd Numbers
