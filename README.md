@@ -19,3 +19,7 @@ This Repo all Content and Basic to Advance Concept JavaScript Series Part 4
 4. Print Even Numbers
 5. Infinite Loops
 6. Print Multiplication Table
+7. Nested for Loop
+8. while Loops
+9. Favorite Movie
+10. break Keyword
