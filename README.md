@@ -32,3 +32,4 @@ This Repo all Content and Basic to Advance Concept JavaScript Series Part 4
 17. practice_Qs2
 18. practice_Qs3
 19. practice_Qs4
+20. practice_Qs5
