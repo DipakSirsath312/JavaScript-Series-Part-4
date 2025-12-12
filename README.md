@@ -23,3 +23,5 @@ This Repo all Content and Basic to Advance Concept JavaScript Series Part 4
 8. while Loops
 9. Favorite Movie
 10. break Keyword
+11. Loops with Arrays
+12. Loops with Nested Arrays
