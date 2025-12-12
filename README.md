@@ -27,3 +27,6 @@ This Repo all Content and Basic to Advance Concept JavaScript Series Part 4
 12. Loops with Nested Arrays
 13. for-of Loops
 14. Nested for-of Loop
+15. Todo App Practice
+16. practice_Qs1
+17. practice_Qs2
